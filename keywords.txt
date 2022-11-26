@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+confCV	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+GetInv	KEYWORD2
+GetSave	KEYWORD2
+GetTaster	KEYWORD2
+GetPulse	KEYWORD2
+GetLnUSB	KEYWORD2
+GetMultiAdr	KEYWORD2
+SetInv	KEYWORD2
+SetSave	KEYWORD2
+SetTaster	KEYWORD2
+SetPulse	KEYWORD2
+SetLnUSB	KEYWORD2
+SetLnUSB	KEYWORD2
+SetMultiAdr	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CONF_CV	LITERAL1
+CONF_CV_DEFAULT	LITERAL1
+INVERT_DIRECTION	LITERAL1
+SET_LAST_SAVED_POSITION	LITERAL1
+TASTER_COMMAND	LITERAL1
+PULSING_OUTPUTS	LITERAL1
+LOCONET_USB_COM	LITERAL1
+USE_MULTIPLE_ADDRESS	LITERAL1
