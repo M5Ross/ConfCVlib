@@ -1,2 +1,2 @@
 # ConfCVlib
-Simple Arduino library to manage CV for special configurations
+Simple Arduino library to manage special configurations via single CV
